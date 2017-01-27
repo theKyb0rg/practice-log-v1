@@ -1,0 +1,17 @@
+1|2015-05-27|C# Minor Root Position|Arpeggio|150|40|1|blank
+2|2015-05-27|E Major 1st Inversion|Arpeggio|100|12|1|blank
+3|2015-05-27|G Minor 2nd Inversion|Arpeggio|25|50|4|blank
+4|2015-05-27|B Diminished|Arpeggio|66|20|8|blank
+5|2015-05-27|F# Major 7th|Arpeggio|100|10|8|blank
+1|2015-05-27|Laid to Rest - Lamb of God|Song|100|40|1|blank
+2|2015-05-27|Recreate - Born of Osiris|Song|88|60|1|blank
+3|2015-05-27|Machine - Born of Osiris|Song|100|20|1|blank
+4|2015-05-27|Hail to the King - Avenged Sevenfold|Song|100|10|1|blank
+1|2015-05-27|A Major 6th|Chord|94|0|1|blank
+2|2015-05-27|G Major|Chord|250|0|1|blank
+3|2015-05-27|C# Diminished|Chord|100|0|1|blank
+1|2015-05-27|A Major 6th|Lick/Etude|264|0|1|blank
+2|2015-05-27|G Major|Chord|212|0|1|blank
+3|2015-05-27|C# Diminished|Chord|18|0|1|blank
+1|2015-06-01|A Minor Pentatonic|Scale Sequence|135|0|3|Ascending is quicker than descending.
+1|2015-06-01|Classical Exercise|Two Hand Synchronization|165|0|4|Luca Turilli Exercise.

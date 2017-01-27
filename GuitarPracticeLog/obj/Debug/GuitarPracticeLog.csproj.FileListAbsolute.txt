@@ -1,0 +1,12 @@
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\bin\Debug\GuitarPracticeLog.exe.config
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\bin\Debug\GuitarPracticeLog.exe
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\bin\Debug\GuitarPracticeLog.pdb
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.Properties.Resources.resources
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.exe
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.pdb
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.MainMenu.resources
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.AboutPracticeLog.resources
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.RiffGenerator.resources
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.Riff.resources
+C:\Users\Ryan\Desktop\C#\GuitarPracticeLog\GuitarPracticeLog\obj\Debug\GuitarPracticeLog.csprojResolveAssemblyReference.cache

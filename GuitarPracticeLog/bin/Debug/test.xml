@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExercise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exercise>
+    <ID>1</ID>
+    <Name>C# Minor Root Position</Name>
+    <Category>Arpeggio</Category>
+    <Tempo>150</Tempo>
+    <Timer>40</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>2</ID>
+    <Name>E Major 1st Inversion</Name>
+    <Category>Arpeggio</Category>
+    <Tempo>100</Tempo>
+    <Timer>12</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>3</ID>
+    <Name>G Minor 2nd Inversion</Name>
+    <Category>Arpeggio</Category>
+    <Tempo>25</Tempo>
+    <Timer>50</Timer>
+    <NotesPerBeat>4</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>4</ID>
+    <Name>B Diminished</Name>
+    <Category>Arpeggio</Category>
+    <Tempo>66</Tempo>
+    <Timer>20</Timer>
+    <NotesPerBeat>8</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>5</ID>
+    <Name>F# Major 7th</Name>
+    <Category>Arpeggio</Category>
+    <Tempo>100</Tempo>
+    <Timer>10</Timer>
+    <NotesPerBeat>8</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>1</ID>
+    <Name>Laid to Rest - Lamb of God</Name>
+    <Category>Song</Category>
+    <Tempo>100</Tempo>
+    <Timer>40</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>2</ID>
+    <Name>Recreate - Born of Osiris</Name>
+    <Category>Song</Category>
+    <Tempo>88</Tempo>
+    <Timer>60</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>3</ID>
+    <Name>Machine - Born of Osiris</Name>
+    <Category>Song</Category>
+    <Tempo>100</Tempo>
+    <Timer>20</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>4</ID>
+    <Name>Hail to the King - Avenged Sevenfold</Name>
+    <Category>Song</Category>
+    <Tempo>100</Tempo>
+    <Timer>10</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>1</ID>
+    <Name>A Major 6th</Name>
+    <Category>Chord</Category>
+    <Tempo>94</Tempo>
+    <Timer>0</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>2</ID>
+    <Name>G Major</Name>
+    <Category>Chord</Category>
+    <Tempo>250</Tempo>
+    <Timer>0</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>3</ID>
+    <Name>C# Diminished</Name>
+    <Category>Chord</Category>
+    <Tempo>100</Tempo>
+    <Timer>0</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>1</ID>
+    <Name>A Major 6th</Name>
+    <Category>Lick/Etude</Category>
+    <Tempo>264</Tempo>
+    <Timer>0</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>4</ID>
+    <Name>G Major</Name>
+    <Category>Chord</Category>
+    <Tempo>212</Tempo>
+    <Timer>0</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>5</ID>
+    <Name>C# Diminished</Name>
+    <Category>Chord</Category>
+    <Tempo>18</Tempo>
+    <Timer>0</Timer>
+    <NotesPerBeat>1</NotesPerBeat>
+    <Comments>blank</Comments>
+    <Date>2015-05-27T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>1</ID>
+    <Name>A Minor Pentatonic</Name>
+    <Category>Scale Sequence</Category>
+    <Tempo>135</Tempo>
+    <Timer>0</Timer>
+    <NotesPerBeat>3</NotesPerBeat>
+    <Comments>Ascending is quicker than descending.</Comments>
+    <Date>2015-06-01T00:00:00</Date>
+  </Exercise>
+  <Exercise>
+    <ID>1</ID>
+    <Name>Classical Exercise</Name>
+    <Category>Two Hand Synchronization</Category>
+    <Tempo>165</Tempo>
+    <Timer>0</Timer>
+    <NotesPerBeat>4</NotesPerBeat>
+    <Comments>Luca Turilli Exercise.</Comments>
+    <Date>2015-06-01T00:00:00</Date>
+  </Exercise>
+</ArrayOfExercise>
